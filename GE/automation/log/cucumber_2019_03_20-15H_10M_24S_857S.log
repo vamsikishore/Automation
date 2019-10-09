@@ -1,0 +1,10 @@
+# Logfile created on 2019-03-20 15:10:24 -0700 by logger.rb/v1.3.0
+
+**************************************************************************************
+Feature: BAT (Smoke Tests)
+Scenario: OT - Validate Data Management Workbench Page Rendering
+Tags: ["@Plugins", "@Plugins_BAT", "@Plugins_BAT_01", "@DMW_BAT"]
+Total steps: 6
+***************************************************************************************
+
+Failed tags added to the failed_tags.txt file

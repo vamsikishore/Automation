@@ -1,0 +1,37 @@
+# Logfile created on 2019-03-27 21:01:13 -0700 by logger.rb/v1.3.0
+
+**************************************************************************************
+Feature: BAT (Smoke Tests)
+Scenario: SE - Invalid Login
+Tags: ["@AppEngine", "@AppEngine_BAT", "@AppEngine_BAT_02"]
+Total steps: 5
+***************************************************************************************
+
+Browser window maximized
+Browser cookies deleted
+Sleeping for 5 seconds before Open Application page is loaded
+Sleeping for 5 seconds before Predix_landing page is loaded
+Predix landing page displayed
+Open Application button validated
+Page Title matches 'Predix Login'
+Predix landing page URL validated
+Sleeping for 1 seconds for the mouse to hove over the open_application button
+Clicked on open_application button on the  page
+Sleeping for 3 seconds after clicking open_application button
+Sleeping for 5 seconds before Predix_login page is loaded
+Predix Login page displayed
+Predix Login page NOT validated
+Entered invalid credentials and clicked Sign In
+Sleeping for 3 seconds to check invalid credentials on AppEngine login page
+AppEngine login page URL validated
+Invalid login message validated
+Entered invalid credentials and clicked Sign In
+Sleeping for 3 seconds to check invalid credentials on AppEngine login page
+AppEngine login page URL validated
+Invalid login message validated
+Browser closed
+
+**************************************************************************************
+Status: passed
+***************************************************************************************
+

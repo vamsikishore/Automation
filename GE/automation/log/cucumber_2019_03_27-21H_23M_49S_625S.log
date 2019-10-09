@@ -1,0 +1,88 @@
+# Logfile created on 2019-03-27 21:23:49 -0700 by logger.rb/v1.3.0
+
+**************************************************************************************
+Feature: BAT (Smoke Tests)
+Scenario: DA - Import and Run a Dynamic Adapter then query data with Indexer Search
+Tags: ["@AppEngine", "@AppEngine_BAT", "@AppEngine_BAT_23", "@Studio", "@Studio_BAT", "@Studio_BAT_23"]
+Total steps: 24
+***************************************************************************************
+
+Browser window maximized
+Browser cookies deleted
+Sleeping for 5 seconds before Predix_landing page is loaded
+Predix landing page displayed
+Open Application button validated
+Page Title matches 'Predix Login'
+Predix landing page URL validated
+Sleeping for 1 seconds for the mouse to hove over the open_application button
+Clicked on open_application button on the  page
+Sleeping for 3 seconds after clicking open_application button
+Sleeping for 5 seconds before Predix_login page is loaded
+Predix Login page displayed
+Predix Login page NOT validated
+Entered credentials and clicked Sign In
+Sleeping for 3 seconds to check credentials on Predix_Login page
+Application authorization not needed
+Sleeping for 5 seconds before Welcome page is loaded
+Welcomeis displayed
+Validated expected element in  Welcome page
+Validated expected url in  Welcome page
+Validated expected title in  Welcome page
+Navigated to Indexer Search URL
+Sleeping for 10 seconds for the Indexer Search to load
+Entered assets  in the indices field
+Sleeping for 3 seconds to check assets entered in the indices field
+Sleeping for 1 seconds for the mouse to hove over the search button
+Clicked on search button on the  page
+Sleeping for 3 seconds after clicking search button
+Navigated to Dynamic Adapters URL
+Sleeping for 10 seconds for the Dynamic Adapters to load
+Sleeping for 9 seconds before entering values in  search box
+Entered AppEngine_BAT_DA text into Adapter Id search field and hit enter
+Sleeping for 3 seconds after hitting enter for searching
+AppEngine_BAT_DA record is not available on the Manage Adapter Configuration grid 
+Sleeping for 3 seconds to check AppEngine_BAT_DA record is displayed on the Manage Adapter Configuration grid
+AppEngine_BAT_DA record is not available in Manage Adapter Configuration grid 
+Sleeping for 1 seconds for the mouse to hove over the restore button
+Clicked on restore button on the  page
+Sleeping for 3 seconds after clicking restore button
+Sleeping for 5 seconds before Import XML popup is loaded
+Popup subtitle matches with 'paste xml here or drag and drop an xml file'
+Copy/Paste on popup text area enabled
+Read data from ./test_data/AppEngine_BAT_DA.xml
+Entered AppEngine_BAT_DA definition in the text area
+Sleeping for 3 seconds to check AppEngine_BAT_DA definition pasted in the text area
+Sleeping for 1 seconds for the mouse to hove over the import button
+Clicked on import button on the  page
+Sleeping for 3 seconds after clicking import button
+Configuration XML successfully restored. message displayed
+Sleeping for 3 seconds to check Configuration XML successfully restored. message is displayed
+Sleeping for 9 seconds before entering values in  search box
+Entered AppEngine_BAT_DA text into Adapter Id search field and hit enter
+Sleeping for 3 seconds after hitting enter for searching
+Clicked on AppEngine_BAT_DA from Manage Adapter Configuration grid
+Sleeping for 1 seconds for the mouse to hove over the run button
+Clicked on run button on the  page
+Sleeping for 3 seconds after clicking run button
+Action completed with no errors. message displayed
+Sleeping for 3 seconds to check Action completed with no errors. message is displayed
+Navigated to Indexer Search URL
+Sleeping for 10 seconds for the Indexer Search to load
+Entered assets  in the indices field
+Sleeping for 3 seconds to check assets entered in the indices field
+Entered Asset  in the types field
+Sleeping for 3 seconds to check Asset entered in the types field
+Unchecked displayCharts from Search Conditions panel
+Sleeping for 3 seconds to confirm displayCharts is unchecked
+Entered search criteria
+Sleeping for 3 seconds to ckeck the search criteria
+Sleeping for 1 seconds for the mouse to hove over the search button
+Clicked on search button on the  page
+Sleeping for 3 seconds after clicking search button
+AST_1 displayed in the grid
+Browser closed
+
+**************************************************************************************
+Status: passed
+***************************************************************************************
+

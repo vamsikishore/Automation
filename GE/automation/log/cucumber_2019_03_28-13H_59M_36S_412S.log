@@ -1,0 +1,13 @@
+# Logfile created on 2019-03-28 13:59:36 -0700 by logger.rb/v1.3.0
+
+**************************************************************************************
+Feature: BAT (Smoke Tests)
+Scenario: OT - Validate Dynamic Adapters Page Rendering
+Tags: ["@AppEngine", "@AppEngine_BAT", "@AppEngine_BAT_03"]
+Total steps: 5
+***************************************************************************************
+
+Browser opened
+Browser window maximized
+Browser cookies deleted
+Failed tags added to the failed_tags.txt file

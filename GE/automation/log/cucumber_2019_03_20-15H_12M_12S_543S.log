@@ -1,0 +1,10 @@
+# Logfile created on 2019-03-20 15:12:12 -0700 by logger.rb/v1.3.0
+
+**************************************************************************************
+Feature: BAT (Smoke Tests)
+Scenario: DMW - Happy Path
+Tags: ["@DMW_BAT", "@Studio_BAT_DMW_1", "@Studio_BAT"]
+Total steps: 76
+***************************************************************************************
+
+Failed tags added to the failed_tags.txt file

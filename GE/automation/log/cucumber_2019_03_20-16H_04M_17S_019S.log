@@ -1,0 +1,20 @@
+# Logfile created on 2019-03-20 16:04:17 -0700 by logger.rb/v1.3.0
+
+**************************************************************************************
+Feature: Configuration Manager (Functional Validation)
+Scenario: Validate grid filtering functionality for Manage Configuration grid
+Tags: ["@AppEngine_ConfigurationManagement", "@Studio_ConfigurationManagement", "@Portal_ConfigurationManagement", "@AppEngine_ConfigurationManagement_03"]
+Total steps: 18
+***************************************************************************************
+
+Browser opened
+Browser window maximized
+Browser cookies deleted
+Failed tags added to the failed_tags.txt file
+Screenshot from failed tags attached to the html report
+Browser closed
+
+**************************************************************************************
+Status: failed
+***************************************************************************************
+

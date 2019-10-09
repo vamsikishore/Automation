@@ -1,0 +1,7 @@
+AppEngine_Scheduler_SuccessJobWithEndtime:
+  schedule_name: "AppEngine_Scheduler_Job_02"
+  description: "Description for the AppEngine_Scheduler_Job_02"
+  group: "AppEngine_Scheduler_Group_02"
+  end_point: "http://www.google.com"
+  execution_interval: "3"
+  max_errors: '0'

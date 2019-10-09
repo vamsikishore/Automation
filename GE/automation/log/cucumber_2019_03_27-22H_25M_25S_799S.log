@@ -1,0 +1,74 @@
+# Logfile created on 2019-03-27 22:25:25 -0700 by logger.rb/v1.3.0
+
+**************************************************************************************
+Feature: BAT (Smoke Tests)
+Scenario: MM - Create Menu Item/Topic/Category
+Tags: ["@AppEngine", "@AppEngine_BAT", "@AppEngine_BAT_27", "@Studio", "@Studio_BAT", "@Studio_BAT_27"]
+Total steps: 18
+***************************************************************************************
+
+Browser window maximized
+Browser cookies deleted
+Sleeping for 5 seconds before Predix_landing page is loaded
+Predix landing page displayed
+Open Application button validated
+Page Title matches 'Predix Login'
+Predix landing page URL validated
+Sleeping for 1 seconds for the mouse to hove over the open_application button
+Clicked on open_application button on the  page
+Sleeping for 3 seconds after clicking open_application button
+Sleeping for 5 seconds before Predix_login page is loaded
+Predix Login page displayed
+Predix Login page NOT validated
+Entered credentials and clicked Sign In
+Sleeping for 3 seconds to check credentials on Predix_Login page
+Application authorization not needed
+Sleeping for 5 seconds before Welcome page is loaded
+Welcomeis displayed
+Validated expected element in  Welcome page
+Validated expected url in  Welcome page
+Validated expected title in  Welcome page
+Navigated to Menu Manager URL
+Sleeping for 10 seconds for the Menu Manager to load
+Sleeping for 1 seconds for the mouse to hove over the add_new_item button
+Clicked on add_new_item button on the  page
+Sleeping for 3 seconds after clicking add_new_item button
+Sleeping for 5 seconds before New Item panel is loaded
+New Item panel displayed
+Sleeping for 6 seconds after creating record
+{} data populated into the panel and inserted/saved
+AppEngine BAT MM Cat category visible on the page
+Sleeping for 3 seconds to check AppEngine BAT MM Cat category is visible on the page
+Sleeping for 1 seconds for the mouse to hove over the add_new_item button
+Clicked on add_new_item button on the  page
+Sleeping for 3 seconds after clicking add_new_item button
+Sleeping for 5 seconds before New Item panel is loaded
+New Item panel displayed
+Sleeping for 6 seconds after creating record
+{} data populated into the panel and inserted/saved
+AppEngine BAT MM Top topic visible on the page
+Sleeping for 3 seconds to check AppEngine BAT MM Top topic is visible on the page
+Sleeping for 1 seconds for the mouse to hove over the add_new_item button
+Clicked on add_new_item button on the  page
+Sleeping for 3 seconds after clicking add_new_item button
+Sleeping for 5 seconds before New Item panel is loaded
+New Item panel displayed
+Sleeping for 6 seconds after creating record
+{} data populated into the panel and inserted/saved
+AppEngine BAT MM Item item visible on the page
+Sleeping for 3 seconds to check AppEngine BAT MM Item item is visible on the page
+Sleeping for 5 seconds AppEngine BAT MM Cat
+Sleeping for 4 seconds AppEngine BAT MM Cat
+Sleeping for 5 seconds before AppEngine BAT MM Item page is loaded
+AppEngine BAT MM Itemis displayed
+Validated expected element in  AppEngine BAT MM Item page
+Validated expected url in  AppEngine BAT MM Item page
+Validated expected title in  AppEngine BAT MM Item page
+AppEngine BAT MM Item  page URL validated
+Page Title matches with 'AppEngine BAT MM Item'
+Browser closed
+
+**************************************************************************************
+Status: passed
+***************************************************************************************
+

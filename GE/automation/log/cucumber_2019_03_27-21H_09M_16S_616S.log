@@ -1,0 +1,49 @@
+# Logfile created on 2019-03-27 21:09:16 -0700 by logger.rb/v1.3.0
+
+**************************************************************************************
+Feature: BAT (Smoke Tests)
+Scenario: OT - Validate System Activity Page Rendering
+Tags: ["@AppEngine", "@AppEngine_BAT", "@AppEngine_BAT_10", "@Studio", "@Studio_BAT", "@Studio_BAT_10"]
+Total steps: 5
+***************************************************************************************
+
+Browser window maximized
+Browser cookies deleted
+Sleeping for 5 seconds before Predix_landing page is loaded
+Predix landing page displayed
+Open Application button validated
+Page Title matches 'Predix Login'
+Predix landing page URL validated
+Sleeping for 1 seconds for the mouse to hove over the open_application button
+Clicked on open_application button on the  page
+Sleeping for 3 seconds after clicking open_application button
+Sleeping for 5 seconds before Predix_login page is loaded
+Predix Login page displayed
+Predix Login page NOT validated
+Entered credentials and clicked Sign In
+Sleeping for 3 seconds to check credentials on Predix_Login page
+Application authorization not needed
+Sleeping for 5 seconds before Welcome page is loaded
+Welcomeis displayed
+Validated expected element in  Welcome page
+Validated expected url in  Welcome page
+Validated expected title in  Welcome page
+Sleeping for 5 seconds Administration
+Sleeping for 4 seconds Administration
+Sleeping for 5 seconds Administration
+Sleeping for 4 seconds Administration
+Sleeping for 5 seconds Administration
+Sleeping for 4 seconds Administration
+Sleeping for 5 seconds before System Activity page is loaded
+System Activityis displayed
+Validated expected element in  System Activity page
+Validated expected url in  System Activity page
+Validated expected title in  System Activity page
+System Activity page URL validated
+Page Title matches with 'System Activity'
+Browser closed
+
+**************************************************************************************
+Status: passed
+***************************************************************************************
+

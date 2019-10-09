@@ -1,0 +1,36 @@
+Dynamic Adapters: AppEngine_DynamicAdapter
+Indexer Search: AppEngine_IndexerSearch
+Menu Manager: AppEngine_MenuManger
+Business Rules: AppEngine_BusinessRules
+Roles Management: AppEngine_UsersAndRoles
+Application Management: Plugin_ApplicationManagement
+Interactive Map: Studio_MapVisualization
+Indexer Health: AppEngine_IndexerHealth
+Configuration Manager: AppEngine_ConfigurationManagement
+Registry Management: AppEngine_RegistryManagement
+Scheduler Management: AppEngine_SchedulerManagement
+Router Management: AppEngine_RouterManagement
+Indexer Backup: Studio_IndexerBackup
+Welcome: WelcomePage
+System Activity: AppEngine_SystemActivityRecord
+Log Files: AppEngine_LogFiles
+About AppEngine: AppEngine_About
+QA Assets: Plugin_QAAssets
+AppEngine BAT MM Item: TestItemPage
+Predix development network: DeveloperNetWorkPage
+Alert Analysis: AlertAnalysisPage
+Predix Studio Login: StudioLoginPage
+Data Management Workbench: DataManagementWorkbench
+Tag Mapping Workbench: TagMappingWorkbench
+Data Dictionary: DataDictionary
+Application Definition: Plugin_ApplicationDefinition
+Plugins Manager: PluginManagerPage
+Studio Catalog: StudioCatalogPage
+Director Debugger: DirectorDebugger
+Director Services Debugger: DirectorServiceDebugger
+Alerts Analysis: AlertAnalysisPage
+Application Logs: ApplicationLogs
+About Predix Studio: Studio_About
+Sensor Deployment: SensorDeployment
+
+

@@ -1,0 +1,10 @@
+# Logfile created on 2019-03-20 15:42:55 -0700 by logger.rb/v1.3.0
+
+**************************************************************************************
+Feature: BAT (Smoke Tests)
+Scenario: SE - Valid Login
+Tags: ["@Studio", "@Studio_BAT", "@Studio_BAT_01"]
+Total steps: 4
+***************************************************************************************
+
+Failed tags added to the failed_tags.txt file

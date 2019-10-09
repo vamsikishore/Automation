@@ -1,0 +1,71 @@
+windows_10_chrome_latest:
+  selenium_version: '3.4.0'
+  platform: Windows 10
+  browser_name: chrome
+  version: '73.0'
+
+windows_10_chrome_latest_minus1:
+  selenium_version: '3.4.0'
+  platform: Windows 10
+  browser_name: chrome
+  version: '72.0'
+
+windows_10_ie_latest:
+  platform: Windows 10
+  browser_name: ie
+  version: '11.0'
+
+windows_10_ie_latest_minus1:
+  platform: Windows 10
+  browser_name: ie
+  version: '10.0'
+
+windows_7_chrome_latest:
+  selenium_version: '3.4.0'
+  platform: Windows 7
+  browser_name: chrome
+  version: '73.0'
+
+windows_7_chrome_latest_minus1:
+  selenium_version: '3.4.0'
+  platform: Windows 7
+  browser_name: chrome
+  version: '72.0'
+
+macOS_Mojave_chrome_latest:
+  selenium_version: '3.4.0'
+  platform: macOS 10.14
+  browser_name: chrome
+  version: '73.0'
+
+macOS_Mojave_chrome_latest_minus1:
+  selenium_version: '3.4.0'
+  platform: macOS 10.14
+  browser_name: chrome
+  version: '72.0'
+
+macOS_Mojave_safari_latest:
+  selenium_version: '3.4.0'
+  platform: macOS 10.14
+  browser_name: safari
+  version: '12.0'
+
+macOS_Mojave_safari_latest_minus1:
+  selenium_version: '3.4.0'
+  platform: macOS 10.14
+  browser_name: safari
+  version: '11.0'
+
+macOS_High_Sierra_Safari_latest:
+  selenium_version: '3.4.0'
+  platform: macOS 10.12
+  browser_name: safari
+  version: '12.0'
+
+macOS_High_Sierra_Safari_latest_minus1:
+  selenium_version: '3.4.0'
+  platform: macOS 10.12
+  browser_name: safari
+  version: '11.0'
+
+

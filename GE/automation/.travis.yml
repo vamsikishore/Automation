@@ -1,0 +1,4 @@
+env:
+  global:
+  - SAUCE_USERNAME=vsundara
+  - SAUCE_ACCESS_KEY=ac9da40f-6cde-450f-8c67-903fe6e2f759

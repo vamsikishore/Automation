@@ -1,0 +1,65 @@
+# Logfile created on 2019-03-27 21:36:52 -0700 by logger.rb/v1.3.0
+
+**************************************************************************************
+Feature: BAT (Smoke Tests)
+Scenario: RT - Router Operations
+Tags: ["@AppEngine", "@AppEngine_BAT", "@AppEngine_BAT_29", "@Studio", "@Studio_BAT", "@Studio_BAT_29"]
+Total steps: 14
+***************************************************************************************
+
+Browser window maximized
+Browser cookies deleted
+Sleeping for 5 seconds before Predix_landing page is loaded
+Predix landing page displayed
+Open Application button validated
+Page Title matches 'Predix Login'
+Predix landing page URL validated
+Sleeping for 1 seconds for the mouse to hove over the open_application button
+Clicked on open_application button on the  page
+Sleeping for 3 seconds after clicking open_application button
+Sleeping for 5 seconds before Predix_login page is loaded
+Predix Login page displayed
+Predix Login page NOT validated
+Entered credentials and clicked Sign In
+Sleeping for 3 seconds to check credentials on Predix_Login page
+Application authorization not needed
+Sleeping for 5 seconds before Welcome page is loaded
+Welcomeis displayed
+Validated expected element in  Welcome page
+Validated expected url in  Welcome page
+Validated expected title in  Welcome page
+Navigated to Router Management URL
+Sleeping for 10 seconds for the Router Management to load
+Clicked on first record from Routers grid
+Sleeping for 3 seconds waiting after clicking on first record from Routers grid
+Sleeping for 1 seconds for the mouse to hove over the pause_router button
+Clicked on pause_router button on the  page
+Sleeping for 3 seconds after clicking pause_router button
+Action completed with no errors. message displayed
+Sleeping for 3 seconds to check Action completed with no errors. message is displayed
+Router icon turned to yellow color
+Sleeping for 3 seconds to check Router icon turned to yellow color
+Clicked on first record from Routers grid
+Sleeping for 3 seconds waiting after clicking on first record from Routers grid
+Sleeping for 1 seconds for the mouse to hove over the stop_router button
+Clicked on stop_router button on the  page
+Sleeping for 3 seconds after clicking stop_router button
+Action completed with no errors. message displayed
+Sleeping for 3 seconds to check Action completed with no errors. message is displayed
+Router icon turned to red color
+Sleeping for 3 seconds to check Router icon turned to red color
+Clicked on first record from Routers grid
+Sleeping for 3 seconds waiting after clicking on first record from Routers grid
+Sleeping for 1 seconds for the mouse to hove over the start_router button
+Clicked on start_router button on the  page
+Sleeping for 3 seconds after clicking start_router button
+Action completed with no errors. message displayed
+Sleeping for 3 seconds to check Action completed with no errors. message is displayed
+Router icon turned to green color
+Sleeping for 3 seconds to check Router icon turned to green color
+Browser closed
+
+**************************************************************************************
+Status: passed
+***************************************************************************************
+

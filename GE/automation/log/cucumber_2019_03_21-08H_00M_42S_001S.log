@@ -1,0 +1,66 @@
+# Logfile created on 2019-03-21 08:00:42 -0700 by logger.rb/v1.3.0
+
+**************************************************************************************
+Feature: BAT (Smoke Tests)
+Scenario: DMW - Happy Path
+Tags: ["@Plugins", "@Plugins_BAT", "@Plugins_BAT_09", "@AppLogs_BAT", "@DMW_BAT_1"]
+Total steps: 43
+***************************************************************************************
+
+Browser opened
+Browser window maximized
+Browser cookies deleted
+Sleeping for 5 seconds before Studio_landing page is loaded
+Predix landing page displayed
+Open Application button validated
+Page Title matches 'Predix Login'
+Predix landing page URL validated
+Sleeping for 1 seconds for the mouse to hove over the open_application button
+Clicked on open_application button on the  page
+Sleeping for 3 seconds after clicking open_application button
+Sleeping for 5 seconds before Predix Studio Login page is loaded
+Predix Studio Loginis displayed
+Validated expected element in  Predix Studio Login page
+Validated expected url in  Predix Studio Login page
+Validated expected title in  Predix Studio Login page
+Entered email and clicked Next
+Sleeping for 3 seconds to check credentials on Predix Studio Login page
+Sleeping for 5 seconds before Predix Studio Login page is loaded
+Single Sign On page displayed
+Single Sign On page NOT validated
+Entered SSO 502779471 credentials and clicked Log In
+Sleeping for 3 seconds to check credentials on Single Sign On page
+Sleeping for 5 seconds before Welcome page is loaded
+Welcomeis displayed
+Validated expected element in  Welcome page
+Validated expected url in  Welcome page
+Validated expected title in  Welcome page
+Navigated to Data Management Workbench URL
+Sleeping for 10 seconds for the Data Management Workbench to load
+Sleeping for 5 seconds before Data Integration Projects panel is loaded
+Data Integration Projects panel displayed
+Sleeping for 1 seconds for the mouse to hove over the dmw_new_project_button button
+Clicked on dmw_new_project_button button on the  page
+Sleeping for 3 seconds after clicking dmw_new_project_button button
+Sleeping for 5 seconds before Create a New Data Integration Project panel is loaded
+Create a New Data Integration Project panel displayed
+Sleeping for 5 seconds before Data Integration Projects panel is loaded
+Data Integration Projects panel displayed
+Sleeping for 5 seconds before Project Log grid is loaded
+Project Log grid displayed
+aahn project is not created
+Sleeping for 1 seconds for the mouse to hove over the source_tab button
+Clicked on source_tab button on the  page
+Sleeping for 3 seconds after clicking source_tab button
+Sleeping for 5 seconds before Available Data Sources panel is loaded
+Available Data Sources panel displayed
+Successfully uploaded the valid emp.csv file into source projects grid 
+Successfully uploaded the valid emp.csv file into source projects grid 
+Failed tags added to the failed_tags.txt file
+Screenshot from failed tags attached to the html report
+Browser closed
+
+**************************************************************************************
+Status: failed
+***************************************************************************************
+

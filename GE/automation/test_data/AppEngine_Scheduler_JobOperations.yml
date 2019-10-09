@@ -1,0 +1,8 @@
+AppEngine_Scheduler_JobOperations:
+  schedule_name: "AppEngine_Scheduler_Job_12"
+  description: "Description for the AppEngine_Scheduler_Job_12"
+  group: "AppEngine_Scheduler_Group_12"
+  end_point: "http://www.google.com"
+  execution_interval: "3"
+  max_errors: '0'
+  execution_count: "1"

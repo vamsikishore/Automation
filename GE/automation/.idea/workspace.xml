@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0044a56a-9736-436c-9344-dc7b9d9ecce3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>insert_update_button</find>
+      <find>mac-chrome</find>
+      <find>$browser_name</find>
+      <find>newProjectHeader</find>
+      <find>Studio_landing</find>
+      <find>headless</find>
+      <find>di-StateProjectPanel</find>
+      <find>insert</find>
+      <find>name</find>
+      <find>close</find>
+      <find>create_model_and_publish_packages</find>
+      <find>contai</find>
+      <find>create</find>
+      <find>create_new</find>
+      <find>popup_title</find>
+      <find>dmw_project_form</find>
+      <find>puts</find>
+      <find>ui-jqgrid-sortable</find>
+      <find>unless</find>
+      <find>first</find>
+      <find>grid_elements.first</find>
+      <find>trigger</find>
+      <find>(@current_page.get_data_grid_element @grid_name).scroll_into_view</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Vamsikishore.Sundara &lt;vsundara@osius.com&gt;" />
+        <option value="Vijay &lt;vmuthayala@bitstew.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="MDQA-2989" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectId" id="1Rr4AfXUHKCqTPo7IzcwlqU9bKC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/features/step_definitions/plugins" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0044a56a-9736-436c-9344-dc7b9d9ecce3" name="Default Changelist" comment="" />
+      <created>1553110204336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553110204336</updated>
+      <workItem from="1553110217144" duration="18580000" />
+      <workItem from="1553177820572" duration="14224000" />
+      <workItem from="1553280954427" duration="17802000" />
+      <workItem from="1553549356894" duration="16780000" />
+      <workItem from="1553633560219" duration="183000" />
+      <workItem from="1553633771683" duration="59000" />
+      <workItem from="1558450291918" duration="67000" />
+      <workItem from="1558450361434" duration="109000" />
+      <workItem from="1558953294324" duration="118000" />
+      <workItem from="1561023455187" duration="18000" />
+      <workItem from="1570411742355" duration="34000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fixing failures">
+      <created>1553181534685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553181534685</updated>
+    </task>
+    <task id="LOCAL-00002" summary="modifying few as per inputs">
+      <created>1553211010749</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553211010749</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixing studio element issue">
+      <created>1553232282912</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553232282913</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixing studio element issue">
+      <created>1553360340072</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553360340072</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding About scenario's for Appengine and Studio">
+      <created>1553360722997</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553360722997</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Removing commented steps">
+      <created>1553360836061</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553360836061</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding credentials manager scenario">
+      <created>1553561044502</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553561044502</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixing Automation and tag names">
+      <created>1553562423766</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553562423766</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixing Automation and tag names">
+      <created>1553574629875</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553574629875</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixing the scheduler failure">
+      <created>1553579425072</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1553579425073</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fixing the scheduler failure">
+      <created>1553580725854</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1553580725854</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fixing the scheduler failure">
+      <created>1553613752488</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1553613752488</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Fixing failures" />
+    <MESSAGE value="modifying few as per inputs" />
+    <MESSAGE value="Fixing studio element issue" />
+    <MESSAGE value="Adding About scenario's for Appengine and Studio" />
+    <MESSAGE value="Removing commented steps" />
+    <MESSAGE value="Adding credentials manager scenario" />
+    <MESSAGE value="Fixing Automation and tag names" />
+    <MESSAGE value="Fixing the scheduler failure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing the scheduler failure" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="268" height="650" key="Git.Branch.Popup" />
+    <state width="268" height="650" key="Git.Branch.Popup/1280.800" />
+    <state width="268" height="650" key="Git.Branch.Popup@1280.800" />
+  </component>
+</project>

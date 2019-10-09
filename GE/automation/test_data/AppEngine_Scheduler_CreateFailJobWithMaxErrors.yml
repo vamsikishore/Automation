@@ -1,0 +1,7 @@
+AppEngine_Scheduler_CreateFailJobWithMaxErrors:
+  schedule_name: "AppEngine_Scheduler_Job_06"
+  description: "Description for the AppEngine_Scheduler_Job_06"
+  group: "AppEngine_Scheduler_Group_06"
+  end_point: "URN:fail"
+  execution_interval: "1"
+  max_errors: '3'

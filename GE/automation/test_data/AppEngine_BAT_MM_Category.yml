@@ -1,0 +1,5 @@
+AppEngine_BAT_MM_Category:
+  menu_item_title: 'AppEngine BAT MM Cat'
+  menu_item_type: 'Category'
+  menu_item_order: '0'
+  show_in_menu: true
