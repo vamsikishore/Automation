@@ -1,3 +1,0 @@
-# Exclude test artefacts from git
-*
-!.gitignore

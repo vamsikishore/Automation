@@ -1,9 +1,0 @@
-AppEngine_Scheduler_SuccessExecCount:
-  schedule_name: "AppEngine_Scheduler_Job_07"
-  description: "Description for the AppEngine_Scheduler_Job_07"
-  group: "AppEngine_Scheduler_Group_07"
-  end_point: "http://www.google.com"
-  execution_interval: "1"
-  max_errors: '0'
-  execution_count: "3"
-  success_action: "com.bitstew.test.echo"

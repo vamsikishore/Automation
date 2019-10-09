@@ -1,6 +1,0 @@
-AppEngine_BAT_MM_Topic:
-  menu_item_title: 'AppEngine BAT MM Top'
-  menu_item_type: 'Topic'
-  menu_item_order: '0'
-  show_in_menu: true
-  menu_parent: 'AppEngine BAT MM Cat'

@@ -1,7 +1,0 @@
-AppEngine_Scheduler_CreateFailJobWithEndtime:
-  schedule_name: "AppEngine_Scheduler_Job_03"
-  description: "Description for the AppEngine_Scheduler_Job_03"
-  group: "AppEngine_Scheduler_Group_03"
-  end_point: "URN:fail"
-  execution_interval: "3"
-  max_errors: '0'

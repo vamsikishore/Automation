@@ -2,132 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a40b730-44ff-4783-8c34-5fe2c48720c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GE/automation/.idea/.rakeTasks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/.idea/automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/Predix_report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/cucumber.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/cucumber.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/drivers/mac/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/drivers/mac/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/drivers/windows/IEDriverServer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/drivers/windows/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/drivers/windows/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/failed_tags.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/features/appengine/BAT.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/features/appengine/Configuration_Manager.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/features/appengine/Roles_Management.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/features/appengine/Scheduler_Manager.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/features/plugins/BAT.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/features/step_definitions/appengine/common.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/features/studio/BAT.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/features/support/Reusable/ui_driver.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/features/support/Reusable/untitled folder.textClipping" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/features/support/Reusable/utility.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/features/support/Reusable/validations.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/features/support/env.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/features/support/hooks.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/features/support/platforms.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/log/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/about_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/business_rules_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/configuration_management_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/dynamic_adapter_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/indexer_health_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/indexer_search_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/landing_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/login_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/menu_manager_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/registry_management_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/router_management_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/scheduler_management_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/system_activity_record_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/test_item_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/user_and_roles_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/view_report_log_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/appengine/welcome_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/common/grid_methods.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/common/page_methods.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/plugins/app_packaging/application_definition_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/plugins/app_packaging/application_management_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/plugins/application_logs_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/plugins/director_debugger_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/plugins/directorservice_debugger_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/plugins/dmw_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/plugins/qa/qa_assets_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/plugins/sensor_deployment_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/plugins/studio_catelog_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/plugins/tmw_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/studio/about_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/studio/alert_analysis_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/studio/data_dictionary_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/studio/develop_predix_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/studio/indexer_backup_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/studio/interactive_map_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/studio/login_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/pages/studio/plugin_manager_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/results/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/screenshots_failed_tests/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_BAT_AM.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_BAT_BR.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_BAT_DA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_BAT_MM_Category.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_BAT_MM_Item.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_BAT_MM_Topic.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_Configuration_CreateRecord.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_Scheduler_CheckGroupOperations.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_Scheduler_CheckMasterSlaveFilter.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_Scheduler_ClearCacheCheck.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_Scheduler_CreateFailJobWithEndtime.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_Scheduler_CreateFailJobWithMaxErrors.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_Scheduler_CreateJob.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_Scheduler_FailedExecCount.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_Scheduler_JobOperations.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_Scheduler_ReloadButtonCheck.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_Scheduler_SuccessExecCount.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/AppEngine_Scheduler_SuccessJobWithEndtime.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/class_names.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_data/urls.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/test_report.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/utils/data_model/data_access.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/utils/environment/browser_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GE/automation/utils/environment/env_info.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ruby-cucumber-framework" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/.idea/Demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/.idea/Demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/cucumber.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/failed_tags.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/failed_tags.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/features/Rest_example.feature" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/features/Rest_example.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/features/news360.feature" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/features/news360.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/features/step_definitions/Services.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/features/step_definitions/Services.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/features/step_definitions/news360/common.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/features/step_definitions/news360/common.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/features/support/hooks.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/features/support/hooks.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/news360_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/news360_report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/test_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/test_report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/test_report.json" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Demo/automation/test_report.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/cucumber.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/failed_tags.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/failed_tags.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/features/step_definitions/ShoppingCart/common.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/features/step_definitions/ShoppingCart/common.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/pages/ShoppingCart/createanaccount_page.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/pages/ShoppingCart/createanaccount_page.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/shopping_site.html" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/shopping_site.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/test_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/test_report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/test_report.json" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-cucumber-framework/Ecommerce_Demo/automation/test_report.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +25,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -173,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570630434609</updated>
-      <workItem from="1570630436275" duration="947000" />
+      <workItem from="1570630436275" duration="2529000" />
     </task>
     <task id="LOCAL-00001" summary="Adding new automation repository">
       <created>1570630492517</created>
@@ -182,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570630492517</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding new automation repository">
+      <created>1570631721172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570631721172</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,9 +82,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Adding new automation repository" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="272" key="Vcs.Push.Dialog.v2" timestamp="1570630838088">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="560" y="270" key="Vcs.Push.Dialog.v2" timestamp="1570632127918">
+      <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="272" key="Vcs.Push.Dialog.v2/-1280.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1570630838088" />
+    <state x="560" y="270" key="Vcs.Push.Dialog.v2/-1280.23.1280.777/0.23.1920.981@0.23.1920.981" timestamp="1570632127918" />
+    <state x="717" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate" timestamp="1570632180948">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="717" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate/-1280.23.1280.777/0.23.1920.981@0.23.1920.981" timestamp="1570632180948" />
   </component>
 </project>

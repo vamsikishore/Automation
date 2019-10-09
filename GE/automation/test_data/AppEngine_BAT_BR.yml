@@ -1,9 +1,0 @@
-AppEngine_BAT_BR:
-  category: "QA"
-  name: "AppEngine_BAT_BR"
-  description: "This rule logs a comment on Director log"
-  assertion: "true()"
-  scope: "All"
-  accept_action: "Macro"
-  status: 'Off'
-  macro_date: '<mix:message log-level="INFO">AppEngine_BAT_BR business rule has been executed</mix:message>'

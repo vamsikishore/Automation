@@ -1,7 +1,0 @@
-AppEngine_Configuration_CreateRecord:
-  category: 'AppEngine_Configuration_01'
-  group: 'AppEngine_ConfigurationManagement_Group'
-  type: 'default'
-  name: '__APPENGINE_CONFIGURATIONMANAGEMENT_01_'
-  record_value: '0.05'
-  description: 'Description for__APPENGINE_CONFIGURATIONMANAGEMENT_01_ record'

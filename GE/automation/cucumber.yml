@@ -1,1 +1,0 @@
-default: --no-source --color -r features -r pages -r utils --format html --out Predix_report.html  --format html --out results/<%= Time.now.strftime("%Y%m%d-%H%M%S") %>-report.html --format pretty --format json -o cucumber.json

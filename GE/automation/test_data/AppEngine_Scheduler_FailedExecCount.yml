@@ -1,9 +1,0 @@
-AppEngine_Scheduler_FailedExecCount:
-  schedule_name: "AppEngine_Scheduler_Job_08"
-  description: "Description for the AppEngine_Scheduler_Job_08"
-  group: "AppEngine_Scheduler_Group_08"
-  end_point: "URN:fail"
-  execution_interval: "1"
-  max_errors: '0'
-  execution_count: "3"
-  failure_action: "com.bitstew.test.echo"
