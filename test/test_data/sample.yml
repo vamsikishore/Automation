@@ -1,0 +1,11 @@
+env1:
+url : 'https://manage-trade-tariffs.trade.dev.uktrade.io/log_in'
+uid : 'vk'
+email : 'vk'
+
+env2:
+url1 : 'https://manage-trade-tariffs.trade.dev.uktrade.io/log_in'
+uid1 : 'vk'
+email2 : 'vk'
+
+
