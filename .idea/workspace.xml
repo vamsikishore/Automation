@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6a40b730-44ff-4783-8c34-5fe2c48720c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-cucumber-framework" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Training.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/Training.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/features/news360.feature" beforeDir="false" afterPath="$PROJECT_DIR$/test/features/news360.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/features/step_definitions/Page_object.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/features/step_definitions/Page_object.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/features/support/pages/Landing_page.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/features/support/pages/Landing_page.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +58,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570630434609</updated>
-      <workItem from="1570630436275" duration="2529000" />
+      <workItem from="1570630436275" duration="3454000" />
+      <workItem from="1570668055167" duration="3006000" />
     </task>
     <task id="LOCAL-00001" summary="Adding new automation repository">
       <created>1570630492517</created>
@@ -71,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570631721172</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Removing duplicates">
+      <created>1570633488500</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570633488500</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,14 +90,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding new automation repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding new automation repository" />
+    <MESSAGE value="Removing duplicates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removing duplicates" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="270" key="Vcs.Push.Dialog.v2" timestamp="1570632127918">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1570670845581">
+      <screen x="0" y="23" width="1280" height="701" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1280.701@0.23.1280.701" timestamp="1570670845581" />
+    <state x="560" y="270" key="Vcs.Push.Dialog.v2" timestamp="1570633491238">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="272" key="Vcs.Push.Dialog.v2/-1280.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1570630838088" />
-    <state x="560" y="270" key="Vcs.Push.Dialog.v2/-1280.23.1280.777/0.23.1920.981@0.23.1920.981" timestamp="1570632127918" />
+    <state x="560" y="270" key="Vcs.Push.Dialog.v2/-1280.23.1280.777/0.23.1920.981@0.23.1920.981" timestamp="1570633491238" />
     <state x="717" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate" timestamp="1570632180948">
       <screen x="0" y="23" width="1920" height="981" />
     </state>

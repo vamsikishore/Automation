@@ -34,7 +34,7 @@ Feature: To validate the news360 landing page
   Scenario Outline: Verify that user is displayed with right url and title when he clicks on different menus in landing page
     Given I hit news360 url
     Then I should be navigated to news360 page
-    When I click on <menu>
+    When I clickStart reading whats matters to you on <menu>
     Then I should check the <url>
     And I should verify the <page_title>
     Examples:
@@ -60,8 +60,11 @@ Scenario: To verify the menu navigation in data table
       And I should see "News360 is now part of PressReader! Learn more"
 
 
-
-
+  @news_360_8
+  Scenario: To click "Start reading whats matters to you" button
+    Given I hit news360 url
+    Then I should be navigated to news360 page
+    And I click on Start reading whats matters to you
 
 
 

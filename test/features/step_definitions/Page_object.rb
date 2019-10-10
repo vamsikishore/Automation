@@ -31,6 +31,9 @@ when 'Brands'
   on_page(LandingPage).brands
 when 'Enterprise'
   on_page(LandingPage).enterprise
+when 'Start reading whats matters to you'
+  binding.pry
+  on_page(LandingPage).start_read_what_matters_to_you
 end
 end
 
