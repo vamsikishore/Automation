@@ -52,3 +52,4 @@ Then(/^I should check the (.*)$/) do |url|
   check_url=ENV['URL']+url
   expect($browser.current_url.eql?(check_url)).to be_truthy, "url not matching"
 end
+

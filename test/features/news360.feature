@@ -66,5 +66,40 @@ Scenario: To verify the menu navigation in data table
     Then I should be navigated to news360 page
     And I click on Start reading whats matters to you
 
+    @news_360_9
+    Scenario: Register into news360 application
+      Given I hit news360 url
+      Then I should be navigated to news360 page
+      And I verify the start reading button in the page
+      When I click on start reading button
+      Then I should be navigated to news360 home page
+      And I verify and click the signin button
+      Then I should see "Sign In to News360!" form
+      And I click on use your email
+      And I click on signupnews360
+      And I enter random email id
+      And I enter random password
+      And I click on signup button
+      When I click on start reading button signin
+      Then I click on Avatar_icon
+      And I click on signout_button
+      And I verify and click the signin button
+      Then I should see "Sign In to News360!" form
+      And I click on use your email
+      And I enter email
+      And I enter password
+      And I click on signin_button
+
+
+
+
+
+
+
+
+
+
+
+
 
 

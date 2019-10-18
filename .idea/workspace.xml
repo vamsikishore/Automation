@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6a40b730-44ff-4783-8c34-5fe2c48720c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Training.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/Training.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/features/news360.feature" beforeDir="false" afterPath="$PROJECT_DIR$/test/features/news360.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/features/step_definitions/Page_object.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/features/step_definitions/Page_object.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/features/support/pages/Landing_page.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/features/support/pages/Landing_page.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/features/step_definitions/news360.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/features/step_definitions/news360.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/features/support/pages/home_page.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/features/support/pages/home_page.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,9 @@
       <option name="presentableId" value="Default" />
       <updated>1570630434609</updated>
       <workItem from="1570630436275" duration="3454000" />
-      <workItem from="1570668055167" duration="3006000" />
+      <workItem from="1570668055167" duration="3085000" />
+      <workItem from="1570756685736" duration="637000" />
+      <workItem from="1571360572226" duration="4855000" />
     </task>
     <task id="LOCAL-00001" summary="Adding new automation repository">
       <created>1570630492517</created>
@@ -82,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570633488500</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixing">
+      <created>1570671381618</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570671381618</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,18 +100,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding new automation repository" />
     <MESSAGE value="Removing duplicates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removing duplicates" />
+    <MESSAGE value="fixing" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="500" height="445" key="SwitcherDM" timestamp="1570670845581">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1571365540172">
       <screen x="0" y="23" width="1280" height="701" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.23.1280.701@0.23.1280.701" timestamp="1570670845581" />
-    <state x="560" y="270" key="Vcs.Push.Dialog.v2" timestamp="1570633491238">
-      <screen x="0" y="23" width="1920" height="981" />
+    <state width="500" height="445" key="SwitcherDM/0.23.1280.701@0.23.1280.701" timestamp="1571365540172" />
+    <state x="373" y="200" key="Vcs.Push.Dialog.v2" timestamp="1570671383999">
+      <screen x="0" y="23" width="1280" height="701" />
     </state>
     <state x="560" y="272" key="Vcs.Push.Dialog.v2/-1280.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1570630838088" />
     <state x="560" y="270" key="Vcs.Push.Dialog.v2/-1280.23.1280.777/0.23.1920.981@0.23.1920.981" timestamp="1570633491238" />
+    <state x="373" y="200" key="Vcs.Push.Dialog.v2/0.23.1280.701@0.23.1280.701" timestamp="1570671383999" />
     <state x="717" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate" timestamp="1570632180948">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
